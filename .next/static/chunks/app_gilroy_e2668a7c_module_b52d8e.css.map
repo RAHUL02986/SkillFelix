@@ -1,0 +1,7 @@
+{
+  "version": 3,
+  "sources": [],
+  "sections": [
+    {"offset": {"line": 1, "column": 0}, "map": {"version":3,"sources":["turbopack://[project]/app/gilroy_e2668a7c.module.css"],"sourcesContent":["@font-face {\n    font-family: 'gilroy';\n    src: url('@vercel/turbopack-next/internal/font/local/font?{%22path%22:%22./fonts/Gilroy-Bold.ttf%22,%22preload%22:true,%22has_size_adjust%22:true}') format('truetype');\n    font-display: swap;\n    font-weight: 700;font-style: normal;\n}\n@font-face {\n    font-family: 'gilroy';\n    src: url('@vercel/turbopack-next/internal/font/local/font?{%22path%22:%22./fonts/Gilroy-SemiBold.ttf%22,%22preload%22:true,%22has_size_adjust%22:true}') format('truetype');\n    font-display: swap;\n    font-weight: 600;font-style: normal;\n}\n\n@font-face {\n    font-family: 'gilroy Fallback';\n    src: local(\"Arial\");\n    ascent-override: 73.33%;\ndescent-override: 21.41%;\nline-gap-override: 21.32%;\nsize-adjust: 105.55%;\n\n}\n\n.className {\n    font-family: 'gilroy', 'gilroy Fallback';\n    \n}\n.variable {\n    --font-gilroy: 'gilroy', 'gilroy Fallback';\n}\n\n"],"names":[],"mappings":"AAAA;;;;;;;;AAMA;;;;;;;;AAOA;;;;;;;;;AAUA;;;;AAIA"}},
+    {"offset": {"line": 33, "column": 0}, "map": {"version":3,"sources":[],"names":[],"mappings":"A"}}]
+}

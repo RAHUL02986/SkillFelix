@@ -1,0 +1,12 @@
+{
+  "pages": {},
+  "app": {
+    "[project]/app/page": [
+      "static/media/Gilroy_Bold-s.p.5d79ed25.ttf",
+      "static/media/Gilroy_SemiBold-s.p.58012e82.ttf",
+      "static/media/OutfitLight1-s.p.510dcbd7.ttf"
+    ]
+  },
+  "appUsingSizeAdjust": true,
+  "pagesUsingSizeAdjust": false
+}

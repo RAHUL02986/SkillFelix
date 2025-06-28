@@ -1,0 +1,35 @@
+/* [project]/app/gilroy_e2668a7c.module.css [app-client] (css) */
+@font-face {
+  font-family: gilroy;
+  src: url("/_next/static/media/Gilroy_Bold-s.p.5d79ed25.ttf") format("truetype");
+  font-display: swap;
+  font-weight: 700;
+  font-style: normal;
+}
+
+@font-face {
+  font-family: gilroy;
+  src: url("/_next/static/media/Gilroy_SemiBold-s.p.58012e82.ttf") format("truetype");
+  font-display: swap;
+  font-weight: 600;
+  font-style: normal;
+}
+
+@font-face {
+  font-family: gilroy Fallback;
+  src: local(Arial);
+  ascent-override: 73.33%;
+  descent-override: 21.41%;
+  line-gap-override: 21.32%;
+  size-adjust: 105.55%;
+}
+
+.gilroy_e2668a7c-module__4V-Ooa__className {
+  font-family: gilroy, gilroy Fallback;
+}
+
+.gilroy_e2668a7c-module__4V-Ooa__variable {
+  --font-gilroy: "gilroy", "gilroy Fallback";
+}
+
+/*# sourceMappingURL=app_gilroy_e2668a7c_module_b52d8e.css.map*/
